@@ -60,7 +60,7 @@ public class Main {
     private static boolean hayGanador(char[][] tablero) {
         // Implementa la lógica para verificar si hay un ganador
         // (combinaciones de filas, columnas y diagonales)
-        // Devuelve true si hay un ganador, false en caso contrario.
+        // Devuelve boolean true si hay un ganador, false en caso contrario.
         // ¡Tarea para el lector!
         return false;
     }
